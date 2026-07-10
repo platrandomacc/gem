@@ -1,0 +1,8 @@
+{
+  "name": "Flip Bet",
+  "description": "A premium, immersive online casino frontend experience",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
